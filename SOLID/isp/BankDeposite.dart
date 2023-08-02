@@ -1,0 +1,3 @@
+interface BankDeposite{
+    void depositeMoneyEnabled();
+}
